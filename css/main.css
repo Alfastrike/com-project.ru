@@ -8,6 +8,6 @@ p {
 
 .footer {
     display: flex;
+    justify-content: center;
 }
 
-.footer {}
